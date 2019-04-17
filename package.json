@@ -1,0 +1,19 @@
+{
+  "name": "replit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelmixer/replit.git"
+  },
+  "author": "Dustin Sparks <pixelmixer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelmixer/replit/issues"
+  },
+  "homepage": "https://github.com/pixelmixer/replit#readme"
+}
